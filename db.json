@@ -1,0 +1,173 @@
+{
+    "pizzas": [
+        {
+            "id": 1,
+            "sizeId": 1,
+            "pizzaName": "Small 1",
+            "ingredients": ["cheese", "meat", "corn"],
+            "price": "10",
+            "imageUrl":"./images/defult.jpg"
+        },
+        {
+            "id": 2,
+            "sizeId": 1,
+            "pizzaName": "Small 2",
+            "ingredients": ["cheese", "meat", "corn"],
+            "price": "11",
+            "imageUrl":"./images/defult.jpg"
+        },
+        {
+            "id": 3,
+            "sizeId": 1,
+            "pizzaName": "Small 3",
+            "ingredients": ["mushroom", "pepperoni", "chicken"],
+            "price": "12",
+            "imageUrl":"./images/defult.jpg"
+        },
+        {
+            "id": 4,
+            "sizeId": 1,
+            "pizzaName": "Small 4",
+            "ingredients": ["mushroom", "pepperoni", "chicken"],
+            "price": "13",
+            "imageUrl":"./images/defult.jpg"
+        },
+        {
+            "id": 5,
+            "sizeId": 1,
+            "pizzaName": "Small 5",
+            "ingredients": ["mushroom", "sausage", "meat"],
+            "price": "14",
+            "imageUrl":"./images/defult.jpg"
+        },
+        {
+            "id": 6,
+            "sizeId": 2,
+            "pizzaName": "Medium 1",
+            "ingredients": ["ham", "sausage", "meat"],
+            "price": "18",
+            "imageUrl":"./images/defult.jpg"
+        },
+        {
+            "id": 7,
+            "sizeId": 2,
+            "pizzaName": "Medium 2",
+            "ingredients": ["corn", "sausage", "meat"],
+            "price": "19",
+            "imageUrl":"./images/defult.jpg"
+        },
+        {
+            "id": 8,
+            "sizeId": 2,
+            "pizzaName": "Medium 3",
+            "ingredients": ["mushroom", "mozzarella", "meat"],
+            "price": "20",
+            "imageUrl":"./images/defult.jpg"
+        },
+        {
+            "id": 9,
+            "sizeId": 2,
+            "pizzaName": "Medium 4",
+            "ingredients": ["bacon", "sausage", "meat"],
+            "price": "21",
+            "imageUrl":"./images/defult.jpg"
+        },
+        {
+            "id": 10,
+            "sizeId": 3,
+            "pizzaName": "Big 1",
+            "ingredients": ["ham", "capsicum", "meat"],
+            "price": "25",
+            "imageUrl":"./images/defult.jpg"
+        },
+        {
+            "id": 11,
+            "sizeId": 3,
+            "pizzaName": "Big 2",
+            "ingredients": ["ham", "sausage", "meat"],
+            "price": "26",
+            "imageUrl":"./images/defult.jpg"
+        },
+        {
+            "id": 12,
+            "sizeId": 3,
+            "pizzaName": "Big 3",
+            "ingredients": ["ham", "capsicum", "chicken"],
+            "price": "27",
+            "imageUrl":"./images/defult.jpg"
+        },
+        {
+            "id": 13,
+            "sizeId": 4,
+            "pizzaName": "Mega 1",
+            "ingredients": ["ham", "capsicum", "red onion"],
+            "price": "32",
+            "imageUrl":"./images/defult.jpg"
+        },
+        {
+            "id": 14,
+            "sizeId": 4,
+            "pizzaName": "Mega 2",
+            "ingredients": ["mussels", "clams", "red onion"],
+            "price": "33",
+            "imageUrl":"./images/defult.jpg"
+        },
+        {
+            "id": 15,
+            "sizeId": 4,
+            "pizzaName": "Mega 3",
+            "ingredients": ["ham", "more ham", "paprika"],
+            "price": "34",
+            "imageUrl":"./images/defult.jpg"
+        },
+        {
+            "id": 16,
+            "sizeId": 5,
+            "pizzaName": "Monster 1",
+            "ingredients": ["ham", "asparagus", "meat", "sausage"],
+            "price": "40",
+            "imageUrl":"./images/defult.jpg"
+        },
+        {
+            "id": 17,
+            "sizeId": 5,
+            "pizzaName": "Monster 2",
+            "ingredients": [
+                "bacon",
+                "asparagus",
+                "paprika",
+                "sausage",
+                "BBQ sauce"
+            ],
+            "price": "40",
+            "imageUrl":"./images/defult.jpg"
+        }
+    ],
+    "sizes": [
+        {
+            "id": 1,
+            "sizeName": "Small",
+            "actualSize": "20"
+        },
+        {
+            "id": 2,
+            "sizeName": "Medium",
+            "actualSize": "25"
+        },
+        {
+            "id": 3,
+            "sizeName": "Big",
+            "actualSize": "30"
+        },
+        {
+            "id": 4,
+            "sizeName": "Mega",
+            "actualSize": "35"
+        },
+        {
+            "id": 5,
+            "sizeName": "Monster",
+            "actualSize": "40"
+        }
+    ]
+}
