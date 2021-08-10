@@ -5,112 +5,128 @@
             "sizeId": 1,
             "pizzaName": "Small 1",
             "ingredients": ["cheese", "meat", "corn"],
-            "price": "10"
+            "price": "10",
+            "imageUrl": "https://images.unsplash.com/photo-1593246049226-ded77bf90326?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=675&q=80"
         },
         {
             "id": 12,
             "sizeId": 3,
             "pizzaName": "Big 3",
             "ingredients": ["ham", "capsicum", "chicken"],
-            "price": "27"
+            "price": "27",
+            "imageUrl": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
         },
         {
             "id": 10,
             "sizeId": 2,
             "pizzaName": "Medium 4",
             "ingredients": ["bacon", "sausage", "meat"],
-            "price": "21"
+            "price": "21",
+            "imageUrl": "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg"
         },
         {
             "id": 16,
             "sizeId": 5,
             "pizzaName": "Monster 1",
             "ingredients": ["ham", "asparagus", "meat", "sausage"],
-            "price": "40"
+            "price": "40",
+            "imageUrl": "https://images.unsplash.com/photo-1593246049226-ded77bf90326?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=675&q=80"
         },
         {
             "id": 5,
             "sizeId": 1,
             "pizzaName": "Small 5",
             "ingredients": ["mushroom", "sausage", "meat"],
-            "price": "14"
+            "price": "14",
+            "imageUrl": "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg"
         },
         {
             "id": 17,
             "sizeId": 1,
             "pizzaName": "Small 2",
             "ingredients": ["cheese", "meat", "corn"],
-            "price": "11"
+            "price": "11",
+            "imageUrl": "https://images.unsplash.com/photo-1593246049226-ded77bf90326?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=675&q=80"
         },
         {
             "id": 1,
             "sizeId": 2,
             "pizzaName": "Medium 2",
             "ingredients": ["corn", "sausage", "meat"],
-            "price": "19"
+            "price": "19",
+            "imageUrl": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
         },
         {
             "id": 14,
             "sizeId": 1,
             "pizzaName": "Small 4",
             "ingredients": ["mushroom", "pepperoni", "chicken"],
-            "price": "13"
+            "price": "13",
+            "imageUrl": "https://cdn.pixabay.com/photo/2021/07/19/16/04/pizza-6478478_1280.jpg"
         },
         {
             "id": 11,
             "sizeId": 2,
             "pizzaName": "Medium 1",
             "ingredients": ["ham", "sausage", "meat"],
-            "price": "18"
+            "price": "18",
+            "imageUrl": "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg"
         },
         {
             "id": 9,
             "sizeId": 3,
             "pizzaName": "Big 1",
             "ingredients": ["ham", "capsicum", "meat"],
-            "price": "25"
+            "price": "25",
+            "imageUrl": "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg"
         },
         {
             "id": 8,
             "sizeId": 2,
             "pizzaName": "Medium 3",
             "ingredients": ["mushroom", "mozzarella", "meat"],
-            "price": "20"
+            "price": "20",
+            "imageUrl": "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg"
         },
         {
             "id": 3,
             "sizeId": 1,
             "pizzaName": "Small 3",
             "ingredients": ["mushroom", "pepperoni", "chicken"],
-            "price": "12"
+            "price": "12",
+            "imageUrl": "https://images.unsplash.com/photo-1593246049226-ded77bf90326?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=675&q=80"
         },
         {
             "id": 13,
             "sizeId": 4,
             "pizzaName": "Mega 1",
             "ingredients": ["ham", "capsicum", "red onion"],
-            "price": "32"
+            "price": "32",
+            "imageUrl": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
         },
         {
             "id": 4,
             "sizeId": 4,
             "pizzaName": "Mega 2",
             "ingredients": ["mussels", "clams", "red onion"],
-            "price": "33"
+            "price": "33",
+            "imageUrl": "https://cdn.pixabay.com/photo/2021/07/19/16/04/pizza-6478478_1280.jpg"
         },
         {
             "id": 6,
             "sizeId": 3,
             "pizzaName": "Big 2",
             "ingredients": ["ham", "sausage", "meat"],
-            "price": "26"
+            "price": "26",
+            "imageUrl": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
         },
         {
             "id": 15,
             "sizeId": 4,
             "pizzaName": "Mega 3",
             "ingredients": ["ham", "more ham", "paprika"],
-            "price": "34"
+            "price": "34",
+            "imageUrl": "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg"
         },
         {
             "id": 2,
@@ -123,7 +139,8 @@
                 "sausage",
                 "BBQ sauce"
             ],
-            "price": "40"
+            "price": "40",
+            "imageUrl": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
         }
     ],
     "sizes": [
